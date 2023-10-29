@@ -1,0 +1,98 @@
+nav{
+      font-size: larger;
+}
+
+.lang{
+      margin-top: -2%;
+}
+
+.email ,.nameE{
+      height: 60px;
+      width: 300px;
+
+}
+
+.rtc{
+      font-size: small;
+}
+
+.projects{
+      border-style: dashed;
+      border-color: black;
+      text-align: center;
+      background-color: yellow;
+}
+
+
+.repo{
+      border-style: dotted;
+      color: white;
+      background-color: black;
+      height: 200px;
+      overflow: hidden;
+      
+}
+
+footer{
+      height: 400px;
+      
+}
+
+.msg{
+      height: 300px;
+      width: 600px;
+      background-color: hsl(19, 84%, 59%);
+      font-size: larger;
+}
+
+.form{
+      text-align: center;
+     
+
+
+}
+
+
+.sbtn{
+      height: 50px;
+      width: 60px;
+      border-radius: 4%;
+
+}
+input {
+      height: 40px;
+      width: 200px;
+      text-align: center;
+      border-color: hsl(19, 84%, 59%);
+      margin-right: 10px;
+      margin-bottom: 10px;
+      background-color: hsl(19, 84%, 59%);
+      border-radius: 4px;
+      height: 800px;
+      width: 700px;
+}
+
+
+
+.name{
+      font-size: large;
+}
+
+.description{
+      font-size: small;
+      color:  rgb(63, 63, 68);
+}
+
+
+
+
+.btn{
+      border-radius: 40px;
+      border-color: aquamarine;
+      overflow: hidden;
+      background-color: transparent;
+      color: aquamarine;
+      height: 70px;
+      width: 90px;
+      
+}

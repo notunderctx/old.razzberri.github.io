@@ -1,0 +1,143 @@
+html body {
+      font-family: 'JetBrains Mono', monospace;
+      color: white;
+      margin: 0%;
+      padding: 0%;
+      background-color: rgb(47, 123, 245);
+     
+      
+      
+} 
+a{
+    text-decoration: none;
+
+}
+
+div + div {
+    margin-top: -30px; 
+    margin-bottom: -30px;
+}
+
+svg + div{
+    margin-top: -49px; 
+    margin-bottom: -49px;
+    
+  }
+
+
+svg + footer {
+    margin-bottom: -50px;
+    margin-top: -50px;
+
+}
+
+.psvg + .intro{
+    margin-top: -0px; 
+    margin-bottom: -70px;
+
+  }
+.intro{
+    background-color: rgb(51, 49, 51);
+    height: 200px;
+    text-align: center;
+
+}
+
+.foot{
+    background-color: 
+    rgb(240, 97, 26);
+    height: 600px;
+    text-align: center;
+
+
+}
+
+.lang{
+    text-align:center;
+    margin-top: -10px;
+}
+.lang li {
+    display:contents;
+    margin: 0 10px; 
+    
+    
+}
+
+.exp{
+    text-align: center;
+}
+
+.lang a{
+    text-decoration: none;
+    color: rgb(80, 188, 191);
+}
+
+.uuint p{
+    font-size: 30px;
+}
+
+.uuint{
+    background: linear-gradient(45deg, #ff9900, #ff66cc);
+    -webkit-background-clip: text;
+    background-clip: text;
+    color: transparent;
+    font-size: 40px;
+}
+.optin{
+    font-size: medium;
+    position: relative;
+    top:-10%;
+    text-align: center;
+    float: left;
+    width: 70%;
+
+}
+
+
+.objb{
+    text-align: center;
+}
+
+
+.pff{
+    border-radius: 50%;
+    margin-left: 80%;
+    clear: both;
+    margin-top: -10%;
+}
+.head{
+    background-color: rgb(47, 123, 245);
+    height: 150px;
+    
+}
+nav {
+      display: flex; 
+      align-items: center; 
+  }
+
+.github {
+      display: inline-block;
+      margin: 0 130vh; 
+  }
+
+
+
+
+  .nav a{
+      color: aqua;
+  }
+
+
+  .nav a:hover{
+      color: aquamarine;
+  }
+
+  .nav a:visited {
+      color: purple;
+  }
+
+.about{
+    background-color: rgb(216, 12, 247);
+    display: flexbox;
+    padding-left: 30px;
+  }
